@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "sreypheas",
+  "info": {
+    "singularName": "sreyphea",
+    "pluralName": "sreypheas",
+    "displayName": "sreyphea"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    }
+  }
+}
